@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.CoffeeShop" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="fontFamily">@font/sora_regular</item>
+    </style>
+</resources>
